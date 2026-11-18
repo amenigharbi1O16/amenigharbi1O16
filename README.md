@@ -33,6 +33,10 @@
 
 <br />
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amenigharbi1O16&theme=dark&background=0b0d14&hide_border=true" alt="GitHub Streak" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amenigharbi1O16/amenigharbi1O16/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amenigharbi1O16/amenigharbi1O16/output/snake-light.svg" />
