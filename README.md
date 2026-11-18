@@ -12,7 +12,7 @@
 
 <img src="lifecycle.svg" width="100%" alt="Design, Build, Secure, Test, Deploy, Monitor" />
 
-<h3 align="center">projects</h3>
+<h3 align="center">MAIN PROJECTS</h3>
 
 <p align="center">
   <a href="https://github.com/amenigharbi1O16?tab=repositories"><img src="infrabot.svg" width="49%" alt="InfraBot" /></a>
@@ -25,7 +25,7 @@
 
 <br />
 
-<h3 align="center">Stack</h3>
+<h3 align="center">STACK</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,express,laravel,php,django,postgres,mongodb,mysql,sqlite,fastapi,docker,kubernetes,prometheus,grafana,git,bash,java,c,tailwind,jest,playwright,postman&perline=9&theme=dark" alt="Tech stack" />
