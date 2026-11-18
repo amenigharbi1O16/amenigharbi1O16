@@ -12,7 +12,7 @@
 
 <img src="lifecycle.svg" width="100%" alt="Design, Build, Secure, Test, Deploy, Monitor" />
 
-<h3 align="center">Selected work</h3>
+<h3 align="center">projects</h3>
 
 <p align="center">
   <a href="https://github.com/amenigharbi1O16?tab=repositories"><img src="infrabot.svg" width="49%" alt="InfraBot" /></a>
